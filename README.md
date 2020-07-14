@@ -12,3 +12,4 @@
 - Actuator endpoints are enabled under `/actuator/*`
 - Sample `HelloController` enabled under `/hello`
 - Hello
+- Hello
